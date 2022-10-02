@@ -1,0 +1,329 @@
+
+kernel: linear , cost: 1
+Accuracy = 95.08% (2377/2500) (classification)
+0.9508 0.978 0.8136439267886856
+kernel: linear , cost: 5
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: linear , cost: 10
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: linear , cost: 20
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: linear , cost: 50
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: linear , cost: 100
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0 , degree: 1
+Accuracy = 94.68% (2367/2500) (classification)
+0.9468 0.964 0.8073701842546064
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0 , degree: 3
+Accuracy = 28.88% (722/2500) (classification)
+0.2888 0.138 0.048728813559322036
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0 , degree: 10
+Accuracy = 20.72% (518/2500) (classification)
+0.2072 0.024 0.00796812749003984
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0.01 , degree: 1
+Accuracy = 94.68% (2367/2500) (classification)
+0.9468 0.964 0.8073701842546064
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0.01 , degree: 3
+Accuracy = 33.36% (834/2500) (classification)
+0.3336 0.23 0.08237822349570201
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0.01 , degree: 10
+Accuracy = 20.76% (519/2500) (classification)
+0.2076 0.024 0.007973421926910298
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0.1 , degree: 1
+Accuracy = 94.68% (2367/2500) (classification)
+0.9468 0.964 0.8073701842546064
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0.1 , degree: 3
+Accuracy = 83.16% (2079/2500) (classification)
+0.8316 0.848 0.5513654096228868
+kernel: poly , cost: 1 , gamma: 0.001 , coef0: 0.1 , degree: 10
+Accuracy = 22.16% (554/2500) (classification)
+0.2216 0.044 0.01476510067114094
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.976 0.8457538994800693
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0 , degree: 3
+Accuracy = 97.04% (2426/2500) (classification)
+0.9704 0.984 0.8817204301075269
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0 , degree: 10
+Accuracy = 62.76% (1569/2500) (classification)
+0.6276 0.764 0.3196652719665272
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0.01 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.976 0.8457538994800693
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0.01 , degree: 3
+Accuracy = 97.28% (2432/2500) (classification)
+0.9728 0.984 0.8913043478260869
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0.01 , degree: 10
+Accuracy = 63.96% (1599/2500) (classification)
+0.6396 0.774 0.3293617021276596
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0.1 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.976 0.8457538994800693
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0.1 , degree: 3
+Accuracy = 97.88% (2447/2500) (classification)
+0.9788 0.99 0.9116022099447514
+kernel: poly , cost: 1 , gamma: 0.01 , coef0: 0.1 , degree: 10
+Accuracy = 73.72% (1843/2500) (classification)
+0.7372 0.85 0.42204568023833167
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0 , degree: 1
+Accuracy = 95.8% (2395/2500) (classification)
+0.958 0.968 0.8446771378708552
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0 , degree: 10
+Accuracy = 87.36% (2184/2500) (classification)
+0.8736 0.932 0.6229946524064172
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0.01 , degree: 1
+Accuracy = 95.8% (2395/2500) (classification)
+0.958 0.968 0.8446771378708552
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0.01 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0.01 , degree: 10
+Accuracy = 87.4% (2185/2500) (classification)
+0.874 0.932 0.6238286479250335
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0.1 , degree: 1
+Accuracy = 95.8% (2395/2500) (classification)
+0.958 0.968 0.8446771378708552
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0.1 , degree: 3
+Accuracy = 97.56% (2439/2500) (classification)
+0.9756 0.986 0.9012797074954296
+kernel: poly , cost: 1 , gamma: 0.1 , coef0: 0.1 , degree: 10
+Accuracy = 87.88% (2197/2500) (classification)
+0.8788 0.936 0.6332882273342354
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.968 0.8506151142355008
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0 , degree: 3
+Accuracy = 79.12% (1978/2500) (classification)
+0.7912 0.82 0.48693586698337293
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0 , degree: 10
+Accuracy = 20.72% (518/2500) (classification)
+0.2072 0.024 0.00796812749003984
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0.01 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.968 0.8506151142355008
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0.01 , degree: 3
+Accuracy = 86.48% (2162/2500) (classification)
+0.8648 0.884 0.6121883656509696
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0.01 , degree: 10
+Accuracy = 20.76% (519/2500) (classification)
+0.2076 0.024 0.007973421926910298
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0.1 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.968 0.8506151142355008
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0.1 , degree: 3
+Accuracy = 95.36% (2384/2500) (classification)
+0.9536 0.97 0.8276450511945392
+kernel: poly , cost: 20 , gamma: 0.001 , coef0: 0.1 , degree: 10
+Accuracy = 22.16% (554/2500) (classification)
+0.2216 0.044 0.01476510067114094
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0 , degree: 1
+Accuracy = 95.72% (2393/2500) (classification)
+0.9572 0.974 0.8382099827882961
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0 , degree: 3
+Accuracy = 97.44% (2436/2500) (classification)
+0.9744 0.988 0.894927536231884
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0 , degree: 10
+Accuracy = 76.48% (1912/2500) (classification)
+0.7648 0.876 0.45435684647302904
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0.01 , degree: 1
+Accuracy = 95.72% (2393/2500) (classification)
+0.9572 0.974 0.8382099827882961
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0.01 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0.01 , degree: 10
+Accuracy = 77.32% (1933/2500) (classification)
+0.7732 0.888 0.4649214659685864
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0.1 , degree: 1
+Accuracy = 95.72% (2393/2500) (classification)
+0.9572 0.974 0.8382099827882961
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0.1 , degree: 3
+Accuracy = 97.92% (2448/2500) (classification)
+0.9792 0.99 0.9132841328413284
+kernel: poly , cost: 20 , gamma: 0.01 , coef0: 0.1 , degree: 10
+Accuracy = 85.16% (2129/2500) (classification)
+0.8516 0.928 0.5807259073842302
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0 , degree: 1
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0 , degree: 10
+Accuracy = 87.36% (2184/2500) (classification)
+0.8736 0.932 0.6229946524064172
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0.01 , degree: 1
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0.01 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0.01 , degree: 10
+Accuracy = 87.4% (2185/2500) (classification)
+0.874 0.932 0.6238286479250335
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0.1 , degree: 1
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0.1 , degree: 3
+Accuracy = 97.56% (2439/2500) (classification)
+0.9756 0.986 0.9012797074954296
+kernel: poly , cost: 20 , gamma: 0.1 , coef0: 0.1 , degree: 10
+Accuracy = 87.88% (2197/2500) (classification)
+0.8788 0.936 0.6332882273342354
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.968 0.8506151142355008
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0 , degree: 3
+Accuracy = 88% (2200/2500) (classification)
+0.88 0.904 0.6420454545454546
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0 , degree: 10
+Accuracy = 20.72% (518/2500) (classification)
+0.2072 0.024 0.00796812749003984
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0.01 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.968 0.8506151142355008
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0.01 , degree: 3
+Accuracy = 91.84% (2296/2500) (classification)
+0.9184 0.938 0.7305295950155763
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0.01 , degree: 10
+Accuracy = 20.76% (519/2500) (classification)
+0.2076 0.024 0.007973421926910298
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0.1 , degree: 1
+Accuracy = 95.96% (2399/2500) (classification)
+0.9596 0.968 0.8506151142355008
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0.1 , degree: 3
+Accuracy = 96% (2400/2500) (classification)
+0.96 0.976 0.8472222222222222
+kernel: poly , cost: 50 , gamma: 0.001 , coef0: 0.1 , degree: 10
+Accuracy = 22.16% (554/2500) (classification)
+0.2216 0.044 0.01476510067114094
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0 , degree: 1
+Accuracy = 95.52% (2388/2500) (classification)
+0.9552 0.98 0.8277027027027027
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0 , degree: 10
+Accuracy = 78.96% (1974/2500) (classification)
+0.7896 0.89 0.48580786026200873
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0.01 , degree: 1
+Accuracy = 95.52% (2388/2500) (classification)
+0.9552 0.98 0.8277027027027027
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0.01 , degree: 3
+Accuracy = 97.56% (2439/2500) (classification)
+0.9756 0.986 0.9012797074954296
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0.01 , degree: 10
+Accuracy = 79.88% (1997/2500) (classification)
+0.7988 0.9 0.4983388704318937
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0.1 , degree: 1
+Accuracy = 95.52% (2388/2500) (classification)
+0.9552 0.98 0.8277027027027027
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0.1 , degree: 3
+Accuracy = 97.92% (2448/2500) (classification)
+0.9792 0.99 0.9132841328413284
+kernel: poly , cost: 50 , gamma: 0.01 , coef0: 0.1 , degree: 10
+Accuracy = 87.2% (2180/2500) (classification)
+0.872 0.938 0.6187335092348285
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0 , degree: 1
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0 , degree: 10
+Accuracy = 87.36% (2184/2500) (classification)
+0.8736 0.932 0.6229946524064172
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0.01 , degree: 1
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0.01 , degree: 3
+Accuracy = 97.48% (2437/2500) (classification)
+0.9748 0.986 0.8979963570127505
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0.01 , degree: 10
+Accuracy = 87.4% (2185/2500) (classification)
+0.874 0.932 0.6238286479250335
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0.1 , degree: 1
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0.1 , degree: 3
+Accuracy = 97.56% (2439/2500) (classification)
+0.9756 0.986 0.9012797074954296
+kernel: poly , cost: 50 , gamma: 0.1 , coef0: 0.1 , degree: 10
+Accuracy = 87.88% (2197/2500) (classification)
+0.8788 0.936 0.6332882273342354
+
+
+kernel: rbf , cost: 1 , gamma: 0.001 
+Accuracy = 95.24% (2381/2500) (classification)
+0.9524 0.97 0.8234295415959253
+kernel: rbf , cost: 1 , gamma: 0.01 
+Accuracy = 97.52% (2438/2500) (classification)
+0.9752 0.984 0.9010989010989011
+kernel: rbf , cost: 1 , gamma: 0.1 
+Accuracy = 90.4% (2260/2500) (classification)
+0.904 0.868 0.7138157894736842
+kernel: rbf , cost: 20 , gamma: 0.001 
+Accuracy = 96.6% (2415/2500) (classification)
+0.966 0.978 0.8685612788632326
+kernel: rbf , cost: 20 , gamma: 0.01 
+Accuracy = 98.16% (2454/2500) (classification)
+0.9816 0.994 0.9203703703703704
+kernel: rbf , cost: 20 , gamma: 0.1 
+Accuracy = 91% (2275/2500) (classification)
+0.91 0.876 0.7287853577371048
+kernel: rbf , cost: 50 , gamma: 0.001 
+Accuracy = 96.72% (2418/2500) (classification)
+0.9672 0.97 0.8786231884057971
+kernel: rbf , cost: 50 , gamma: 0.01 
+Accuracy = 98.16% (2454/2500) (classification)
+0.9816 0.994 0.9203703703703704
+kernel: rbf , cost: 50 , gamma: 0.1 
+Accuracy = 91% (2275/2500) (classification)
+0.91 0.876 0.7287853577371048
+
+cost: 1 , gamma: 0.001
+Accuracy = 95.08% (2377/2500) (classification)
+0.9508 0.978 0.8136439267886856
+cost: 1 , gamma: 0.0012755102040816326
+Accuracy = 95.08% (2377/2500) (classification)
+0.9508 0.978 0.8136439267886856
+cost: 1 , gamma: 0.01
+Accuracy = 95.08% (2377/2500) (classification)
+0.9508 0.978 0.8136439267886856
+cost: 1 , gamma: 0.1
+Accuracy = 95.32% (2383/2500) (classification)
+0.9532 0.98 0.8207705192629816
+cost: 20 , gamma: 0.001
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+cost: 20 , gamma: 0.0012755102040816326
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+cost: 20 , gamma: 0.01
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+cost: 20 , gamma: 0.1
+Accuracy = 95.32% (2383/2500) (classification)
+0.9532 0.98 0.8207705192629816
+cost: 50 , gamma: 0.001
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+cost: 50 , gamma: 0.0012755102040816326
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+cost: 50 , gamma: 0.01
+Accuracy = 95% (2375/2500) (classification)
+0.95 0.978 0.8109452736318408
+cost: 50 , gamma: 0.1
+Accuracy = 95.32% (2383/2500) (classification)
+0.9532 0.98 0.8207705192629816
